@@ -4,8 +4,6 @@ Unicode prompty goodness for rbenv. This copies the unicode characters used in `
 
 ## Install
 
-It's still [pending a pull request][pull] from the [Homebrew][] team. You can install now with:
+You can install it using Homebrew via the command below. If someone wants to contribute a Homebrew formula to the main repo that would rock.
 
     brew install https://raw.github.com/joefiorini/homebrew/5ac0a1d8558c8a8334ce1e36114e82f6bb628e5e/Library/Formula/rbenv-prompt.rb
-
-I'll update this when it's accepted.
