@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+set -e
+
 version_string=$(rbenv version-name)
 case ${version_string%-*} in
   1.8.6)  version_string="❻"  ;;
